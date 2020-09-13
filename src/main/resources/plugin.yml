@@ -1,17 +1,17 @@
 ## CHANGE this to the name of your plugin.
-name: SlimefunAddon
+name: EndMe
 
 ## CHANGE this to your username.
-author: CHANGEME
+author: juddcraft12
 
 ## CHANGE this to a meaninful but short description of your plugin.
-description: A generic Slimefun4-Addon
+description: I was bored so i decided to torture myself
 
 ## CHANGE this to the path of the class that extends JavaPlugin.
-main: me.CHANGEME.slimefunaddon.ExampleAddon
+main: me.juddcraft12.endme.EndMe
 
 ## You can change this to link to your website or repository. You can also remove this line if you want to.
-website: https://github.com/TheBusyBiscuit/Slimefun4-Addon
+website: https://github.com/juddcraft12/I-have-no-idea-what-im-doing
 
 ## This is required and marks Slimefun as a plugin dependency.
 depend: [Slimefun]
